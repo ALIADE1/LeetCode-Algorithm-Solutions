@@ -9,7 +9,7 @@ class Solution:
                 summ_ans=((i * n) + j)
             elif com == "LEFT":
                 j-=1
-                summ_an+=((i * n) + j)
+                summ_ans=((i * n) + j)
             elif com == "UP":
                 i-=1
                 summ_ans=((i * n) + j)
